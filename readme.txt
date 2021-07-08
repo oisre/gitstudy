@@ -6,4 +6,4 @@ asdasd
 qweqwe
 
 
-pull test
+pull test new
